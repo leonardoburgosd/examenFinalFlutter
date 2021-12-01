@@ -159,12 +159,4 @@ insert into [vijap].[JARDINERIA_DETALLEPEDIDOS]([codigoProducto],[cantidad],[pre
 insert into [vijap].[JARDINERIA_DETALLEPEDIDOS]([codigoProducto],[cantidad],[precioUnidad]) values(8,4,28)
 
 
-select * from [vijap].[JARDINERIA_PRODUCTOS]
-
-2
-3
-68
-9
-10
-
 
